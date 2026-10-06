@@ -3,7 +3,7 @@
 Marketing & Advertising student at **Johnson & Wales University** (Charlotte, NC), graduating **May 2027**. I work where marketing, data analytics, and AI meet — turning data into practical strategies that drive growth.
 
 ### What I'm working on
-- Learning **Python** for data analysis and AI (Kaggle: Intro to Programming → Python → Pandas → Intro to Machine Learning)
+- Learning **Python** for data analysis and AI — follow along in [python-learning](https://github.com/luis-dorta/python-learning)
 - Building AI-powered marketing workflows and automations
 - Applying analytics to real marketing and business problems
 
@@ -28,4 +28,4 @@ Marketing & Advertising student at **Johnson & Wales University** (Charlotte, NC
 AI for Marketing (UNC Charlotte) · SAS Data Literacy for Business · Excel Skills for Business
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/luis-dorta-9457a9395) · luisitodorta@gmail.com
+Portfolio: [luisdorta.me](https://luisdorta.me) · [LinkedIn](https://www.linkedin.com/in/luis-dorta-9457a9395) · luisitodorta@gmail.com
