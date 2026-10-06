@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Luis Dorta
 
-<!--
-**luis-dorta/luis-dorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing & Advertising student at **Johnson & Wales University** (Charlotte, NC), graduating **May 2027**. I work where marketing, data analytics, and AI meet — turning data into practical strategies that drive growth.
 
-Here are some ideas to get you started:
+### What I'm working on
+- Learning **Python** for data analysis and AI (Kaggle: Intro to Programming → Python → Pandas → Intro to Machine Learning)
+- Building AI-powered marketing workflows and automations
+- Applying analytics to real marketing and business problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & tools
+- **Analytics:** SAS (Data Literacy for Business certified) · Advanced Excel · GA4 · Meta Ads analysis · A/B testing · survey research
+- **AI & automation:** Make.com · prompt engineering · sentiment analysis · ChatGPT, Claude, Gemini, Perplexity
+- **Marketing:** Google Ads · SEO · social media strategy · CRM · campaign analysis
+- **Languages:** English & Spanish (bilingual)
+
+### Selected projects
+- **YouTube Comment AI (Make.com)** — automated workflow that monitors YouTube comments, runs AI sentiment analysis, drafts responses, and routes insights to Slack
+- **MealCraft Meta Ads analysis** — campaign performance analysis across audience segments (CTR, conversion rate, purchases)
+- **Artea targeting case** — analyzed a coupon A/B test to recommend a customer targeting strategy
+- **YETI sustainability rebrand** — research-driven rebranding campaign (group project)
+
+### Experience highlights
+- Management & Sales Intern, **Sherwin-Williams**
+- Generated **$217K+ in revenue** and managed 150+ accounts at Aptive Environmental
+- Resident Assistant, Johnson & Wales University
+
+### Certifications
+AI for Marketing (UNC Charlotte) · SAS Data Literacy for Business · Excel Skills for Business
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/luis-dorta-9457a9395) · luisitodorta@gmail.com
