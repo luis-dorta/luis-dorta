@@ -14,6 +14,7 @@ Marketing & Advertising student at **Johnson & Wales University** (Charlotte, NC
 - **Languages:** English & Spanish (bilingual)
 
 ### Selected projects
+- **Fact or Fib** — bilingual (EN/ES) multiplayer party game for 2–8 players, built in 24 hours by directing ChatGPT as the developer; fact-checked the AI, wrote bug reports, and playtested with friends. [Play it](https://fact-or-fib.netlify.app) · [Handshake showcase](https://app.joinhandshake.com/ai-showcase/projects/3564119)
 - **YouTube Comment AI (Make.com)** — automated workflow that monitors YouTube comments, runs AI sentiment analysis, drafts responses, and routes insights to Slack
 - **MealCraft Meta Ads analysis** — campaign performance analysis across audience segments (CTR, conversion rate, purchases)
 - **Artea targeting case** — analyzed a coupon A/B test to recommend a customer targeting strategy
