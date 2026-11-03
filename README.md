@@ -3,7 +3,7 @@
 Marketing & Advertising student at **Johnson & Wales University** (Charlotte, NC), graduating **May 2027**. I work where marketing, data analytics, and AI meet, turning data into practical strategies that drive growth. Bilingual (English/Spanish).
 
 ### What I'm working on
-- Building a **Python** foundation to back up my AI work. Kaggle certified in Python and Intro to Programming. Follow along in [python-learning](https://github.com/luis-dorta/python-learning)
+- Building a **Python** foundation to back up my AI work. Follow along in [python-learning](https://github.com/luis-dorta/python-learning)
 - Building AI-powered marketing workflows and automations
 - Applying analytics to real marketing and business problems
 
